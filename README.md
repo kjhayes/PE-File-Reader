@@ -1,0 +1,2 @@
+-A Small (Header Only Because I Haven't Split Declarations from Definitions yet) Project Meant To Read Portable Executable Files.
+-Very Incomplete, there are much better libraries to read PE Files out there, this was just meant to help me learn about them.
